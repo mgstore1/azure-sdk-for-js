@@ -43,6 +43,7 @@
   // "forwardPorts": [],
 
   "customizations": {
+    "ghcr.io/devcontainers/features/azure-cli:1": {}
     "codespaces": {
       "repositories": {
         "Azure/azure-sdk-assets": {
